@@ -1,0 +1,9 @@
+# Robots.txt for TechAI Insights
+# Allow all search engine crawlers
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://techai-insights.com/sitemap.txt
+Sitemap: https://techai-insights.com/sitemap.xml
